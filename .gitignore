@@ -1,0 +1,5 @@
+/auth-service/target/
+/inventory-service/target/
+/notification-service/target/
+/order-service/target/
+/payment-service/target/
